@@ -2,5 +2,67 @@
 
  .potepan{
    background-image: url("https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/first-view/top-hero.jpg");
-   ｝
+   background-position: center;
+   background-size: cover;
+   padding-top: 100px;
+   padding-bottom: 28px;
+ }
+ 
+ .content{
+   color: black;
+   text-decoration: none;
+ }
+ 
+ .interviw{
+   color: black;
+   text-decoration: none;
+ }
+ 
+ .faq{
+   color: black;
+   text-decoration: none;
+ }
+ 
+ .recruit{
+   color: black;
+   text-decoration: none;
+ }
+ 
+ .document{
+   color: black;
+   text-decoration: none;
+ }
+ 
+ .counceling{
+   background-color: orange;
+   text-decoration: none;
+   color: white;
+   padding: 13px;
+   border-radius: 100px;
+ }
+   
+ .counceling2{
+  background-color: orange;
+  text-decoration: none;
+  color: white;
+  padding:30px;
+  border-radius: 100px;
+ }
+   
+ .shiryo{
+   background-color: white;
+   text-decoration: none;
+   color: black;
+   padding: 30px;
+   border-radius: 100px;
+ }
+   
+ .header{
+   display: flex;
+   justify-content: space-between;
+ }  
+ 
+   
+   
+   
    
