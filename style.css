@@ -4,9 +4,10 @@
    background-image: url("https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/first-view/top-hero.jpg");
    background-position: center;
    background-size: cover;
-   padding-top: 100px;
+   padding-top: 20px;
    padding-bottom: 28px;
  }
+
  
  .content{
    color: black;
@@ -59,9 +60,9 @@
    
  .site-header{
    width: 100%;
-   position: absolute
-   margin: 0;
-   
+   position: absolute;
+   margin-top: 0px;
+   margin-bottom: 100px;
  }  
  
  .gokagetu{
