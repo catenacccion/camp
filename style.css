@@ -1,4 +1,4 @@
-.syonen{
+.syonen {
     background-image: url("https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/first-view/top-hero.jpg" );
     background-size: cover;
     background-position: center;
@@ -6,47 +6,68 @@
     padding-bottom: 10px;
     height: 650px;
 }
-.site-header{
+.site-header {
     
     
     
 }
-.sete-header-pc{
-    
-}
-.site-headerinner{
-    height: 200px;
-    text-decoration: none;
-}   
-.header-rogo-pc{
-    
-}
-
-.header-nav-list{
-    text-decoration: none;
-    
-}
-
-.header-nav-item-outline{
-    display: inline-block;
-    color: black;
+.sete-header-pc {
    
 }
-.header-nav-item hover-opacity{
-    display: flex;
+.site-headerinner {
+    height: 200px;
+    
+}   
+.header-rogo {
+   width: auto;
+   height: 20px;
+}
+
+.header-nav-list {
+   
+    
+}
+
+.header-nav-item-outline {
+    display: inline-block;
+    color: black;
+    font-weight: bold;
+    
+}
+.header-nav-item hover-opacity {
+    display: inline-block;
     justify-content: space-between;
+    text-decoration: none;
+}
+
+
+.maru1 {
+    position: top 1000px;
+    
 }
 
 
 
-.counceling-button{
+
+
+
+
+
+.counceling-button {
     background-color: orange;
     color: white;
     padding: 15px;
     border-radius: 30px;
+    text-decoration: none;
 }
 
-
+.counceling-button1 {
+    background-color: white;
+    color: black;
+    padding: 15px;
+    border-radius: 30px;
+    text-decoration: none;
+}
 
 
 
