@@ -1,4 +1,4 @@
-.syonen {
+.syonen-main-image {
     background-image: url("https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/first-view/top-hero.jpg" );
     background-size: cover;
     background-position: center;
@@ -6,11 +6,11 @@
     padding-bottom: 10px;
     height: 650px;
 }
+
 .site-header {
     display: flex;
     flex-direction: row;
 }
-    
   
 .header-logo {
    transition: opacity 0.2s;
@@ -23,8 +23,6 @@
    left: 30px;
    top: -25px;
 }
-
-
 
 .header-nav-item-outline {
     display: block;  
@@ -46,7 +44,6 @@
     box-sizing: border-box;
     position: relative;
     left: 170px;
-    
 }
 
 .gedan {
@@ -68,11 +65,7 @@
     margin-bottom: 15px;
     text-align: center;
 }
-
-.zentai {
     
-   
-}
 .maru1 {
     position:relative;
     top: -30px;
@@ -110,9 +103,8 @@
     font-size: 12px;
     position: relative;
     left: 70px;
-    
-    
 }
+
 .counceling-button {
     transition: opacity 0.2s;
     width: 250px;
@@ -168,6 +160,7 @@
     position: relative;
     top: -210px;
 }
+
 .saport1 {
     font-size: 12px;
     font-weight: 700;
@@ -187,11 +180,22 @@
 }
 
 
+@media screen and (max-width 1024px) 
+.header-nav-item-outline {
+             }
+
+
+@media screen and (max-width 768px) 
+    header-nav-item-outline {
+             display: none;
+    }
 
 
 
-
-
+@media screen and (max-width 480px) 
+    header-nav-item-outline {
+             display: none;
+    }
 
 
 
